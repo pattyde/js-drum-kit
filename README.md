@@ -1,3 +1,5 @@
+### JavaScript Drum Kit
+
 A simple JavaScript based drum kit. Press a key and it makes a sound. Simples.
 
 Based off Wes Bos's [30 day JS challenge](https://javascript30.com/).
