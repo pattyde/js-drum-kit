@@ -1,4 +1,4 @@
-### JavaScript Drum Kit
+### 🥁 JavaScript Drum Kit
 
 A simple JavaScript based drum kit. Press a key and it makes a sound. Simples.
 
